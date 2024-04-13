@@ -423,9 +423,15 @@ _Consumidores de contenido_
 
 _Distribuidores de contenido_
 
-![Alt text](image-6.png)
+![Alt text]()
 
 _Consumidores de contenido_
+
+<div align="center">
+
+![consumidorcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-7.png)
+  
+</div>
 
 ![Alt text](image-7.png)
 
