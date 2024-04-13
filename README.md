@@ -324,28 +324,6 @@ Preguntas principales:
 
 ### 2.2.2. Registro de entrevistas
 
-_Tienda_
-
-Nombre: 
-
-Edad: 
-
-Distrito: 
-
-![Alt text](image-8.png)
-
-
-
-Nombre completo: 
-
-Edad: 
-
-Distrito: 
-
-![Alt text](image-9.png)
-
-
-
 _Lector_
 
 Nombre completo: Anapaula Diaz
@@ -369,15 +347,6 @@ Distrito: Cercado de lima
 [Ver entrevista](https://youtu.be/f3VZy_-7u8k)
 ![Alt text](image-18.png)
 
-
-
-Nombre completo: 
-
-Edad: 
-
-Distrito: 
-
-![Alt text](image-19.png)
 
 
 ### 2.2.3. Análisis de entrevistas
