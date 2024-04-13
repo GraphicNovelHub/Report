@@ -238,7 +238,11 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 #### 1.2.2.4. Lean UX Canvas
 
-![leanux.jpg](images%2Fleanux.jpg)
+<div align="center">
+
+![leanux.jpg](https://github.com/Programadores-de-lavadoras/Report/raw/develop/images%2Fleanux.jpg)
+
+</div>
 
 ## 1.3. Segmentos Objetivos
 
@@ -256,11 +260,17 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 ### 2.1.1. Análisis Competitivo
 
-![Alt text](image-13.png)
-![Alt text](image-14.png)
-![Alt text](image-15.png)
-![Alt text](image-16.png)
-![Alt text](image-17.png)
+<div align="center">
+
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis1.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis2.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis3.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis4.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis4.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis6.png?raw=true)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/analisis7.png?raw=true)
+
+</div>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
@@ -394,11 +404,19 @@ Hemos realizado entrevistas a los consumidores de contenido para recopilar infor
 
 _Distribuidores de contenido_
 
-![Alt text](image-11.png)
+<div align="center>
+
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/taskmatrixdistribuidor.png?raw=true)
+
+</div>
 
 _Consumidores de contenido_
 
-![Alt text](image-12.png)
+<div align="center">
+
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/taskmatrixconsumidor.png?raw=true)
+
+</div>
 
 ### 2.3.3 User Journey Mapping
 
