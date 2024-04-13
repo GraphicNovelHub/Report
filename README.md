@@ -391,7 +391,7 @@ Hemos realizado entrevistas a los consumidores de contenido para recopilar infor
 
 ### 2.3.2. User Task Matrix
 
-_Escritores_
+_Distribuidores de contenido_
 
 ![Alt text](image-11.png)
 
@@ -401,7 +401,7 @@ _Consumidores de contenido_
 
 ### 2.3.3 User Journey Mapping
 
-_Escritores_
+_Distribuidores de contenido_
 
 ![Alt text](image-2.png)
 
@@ -411,7 +411,7 @@ _Consumidores de contenido_
 
 ### 2.3.4. Empathy Mapping
 
-_Escritores_
+_Distribuidores de contenido_
 
 ![Alt text](image-4.png)
 
@@ -421,7 +421,7 @@ _Consumidores de contenido_
 
 ### 2.3.5 As-Is Scenario Mapping
 
-_Escritores_
+_Distribuidores de contenido_
 
 ![Alt text](image-6.png)
 
