@@ -385,9 +385,9 @@ Hemos realizado entrevistas a los consumidores de contenido para recopilar infor
 
 ### 2.3.1. User Personas
 
-![Alt text](image.png)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/Silvia%20Romina%20Vargas%20Bustamante%20(1).png)
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/Roberto%20Luis%20Domingo%20Palomino.png)
 
 ### 2.3.2. User Task Matrix
 
