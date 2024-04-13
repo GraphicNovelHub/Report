@@ -37,6 +37,7 @@
 | Versión | Fecha      | Autor                  | Descripción de modificación                                 |
 | ------- | ---------- | ---------------------- | ----------------------------------------------------------- |
 | 1.0     | 01/04/2024 | Fabrizzio Laguerre     | Creación del reporte y se definió la estructura del informe |
+| 1.0     | 08/04/2024 | Damaris Tasayco        | Se apoyó en la estructura e información del informe         |
 
 ---
 
