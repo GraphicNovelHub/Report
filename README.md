@@ -423,7 +423,11 @@ _Consumidores de contenido_
 
 _Distribuidores de contenido_
 
-![Alt text]()
+<div align="center">
+
+![distribuidorcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-6.png)
+
+</div>
 
 _Consumidores de contenido_
 
@@ -432,8 +436,6 @@ _Consumidores de contenido_
 ![consumidorcurihub](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-7.png)
   
 </div>
-
-![Alt text](image-7.png)
 
 # Capítulo III: Requirements Specification
 
