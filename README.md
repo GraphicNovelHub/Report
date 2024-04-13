@@ -406,7 +406,7 @@ _Distribuidores de contenido_
 
 <div align="center>
 
-![Alt text](https://github.com/GraphicNovelHub/Report/blob/main/images/taskmatrixdistribuidor.png?raw=true)
+![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-11.png?raw=true)
 
 </div>
 
@@ -422,17 +422,29 @@ _Consumidores de contenido_
 
 _Distribuidores de contenido_
 
-![Alt text](image-2.png)
+<div align="center">
+
+![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-2.png?raw=true)
+
+</div>
 
 _Consumidores de contenido_
 
-![Alt text](image-3.png)
+<div align="center">
+
+![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-3.png?raw=true)
+
+</div>
 
 ### 2.3.4. Empathy Mapping
 
 _Distribuidores de contenido_
 
-![Alt text](image-4.png)
+<div align="center">
+
+![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-4.png?raw=true)
+
+</div>
 
 _Consumidores de contenido_
 
