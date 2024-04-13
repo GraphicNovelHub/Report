@@ -274,11 +274,11 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-- 
-- 
-- 
-- 
-- 
+- Asegurar la calidad del contenido: Los fanfics que pongamos a disposición contarán con traducciones y de alta calidad. Dado que la calidad del contenido es fundamental, nos esforzamos para evitar que los lectores se sientan decepcionados y así poder asegurar su fidelidad
+- Fomentar la creación de una comunidad: Facilitar un espacio de discusión, ya sea un foro o una sección de interacción, para que los lectores interactúen entre si y con los escritores representen una excelente forma de establecer una comunidad. Los lectores puedan debatir sus opiniones y compartir recomendaciones.
+- Estrategias de Marketing: Implementar una estrategia de promoción que incluirá publicidad en línea, campañas en redes sociales y realizar eventos para los usuarios, realizar colaboraciones con otros sitios web similares.
+- Ofrecer una experiencia de usuario atractivo: Diseñar una página web de fácil uso con una interfaz de usuario intuitiva para el usuario. Además, consideramos la implementación de funciones como búsquedas avanzadas y opciones de filtrado de títulos para facilitar al usuario.
+- Proporcionar contenido exclusivo: la oferta de contenido exclusivo, como ver los capítulos adelantados, con la finalidad de atraer a los lectores y mantenerlos comprometidos con la plataforma.
 
 ## 2.2. Entrevistas
 
@@ -406,7 +406,7 @@ _Distribuidores de contenido_
 
 <div align="center>
 
-![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-11.png?raw=true)
+![Alt text](https://github.com/Programadores-de-lavadoras/Report/raw/develop/image-11.png)
 
 </div>
 
