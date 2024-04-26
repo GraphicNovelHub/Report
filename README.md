@@ -82,7 +82,7 @@
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [User Stories](#32-user-stories)
-  - [Impact Mapping](#33-impact-mapping)
+  - [Impacts Mapping](#33-impact-mapping)
   - [Product Backlog](#34-product-backlog)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
