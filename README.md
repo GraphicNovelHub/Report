@@ -54,7 +54,7 @@
 # Tabla de Contenido
 
 - [Capitulo I: Introducción](#capitulo-i-introducción)
-  - [Startup Profile](#11-startup-profile)
+  - [Startup Profiles](#11-startup-profile)
     - [Descripción de la Startup](#111-descripción-de-la-startup)
     - [Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
   - [Solution Profile](#12-solution-profile)
