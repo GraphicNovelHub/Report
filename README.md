@@ -71,7 +71,7 @@
     - [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
   - [Entrevistas](#22-entrevistas)
     - [Diseño de entrevistas](#221-diseño-de-entrevistas)
-    - [Registro de entrevistas](#222-registro-de-entrevistas)
+    - [Registros de entrevistas](#222-registro-de-entrevistas)
     - [Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [Needfinding](#23-needfinding)
     - [User Personas](#231-user-personas)
