@@ -60,7 +60,7 @@
   - [Solution Profile](#12-solution-profile)
     - [Antecedentes y Problemática](#121-antecedentes-y-problemática)
     - [Lean UX Process](#122-lean-ux-process)
-    - [Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [Lean UX Problems Statements](#1221-lean-ux-problem-statements)
     - [Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
     - [Lean UX Canvas](#1224-lean-ux-canvas)
