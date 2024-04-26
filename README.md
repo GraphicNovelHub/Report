@@ -74,7 +74,7 @@
     - [Registros de entrevistas](#222-registro-de-entrevistas)
     - [Análisis de entrevistas](#223-análisis-de-entrevistas)
   - [Needfinding](#23-needfinding)
-    - [User Personas](#231-user-personas)
+    - [User Persons](#231-user-personas)
     - [User Task Matrix](#232-user-task-matrix)
     - [User Journey Mapping](#233-user-journey-mapping)
     - [Empathy Mapping](#234-empathy-mapping)
