@@ -548,7 +548,10 @@ Para el uso de espaciado en nuestra aplicación, usaremos multiplos de 8 en un r
 
 #### Tono de Comunicación y Lenguaje Aplicado
 
+
 Al tener como segmento objetivo a jóvenes (en su mayoría) y adultos lectores y/o escritores de fanfics, en un rango de entre 18 y 40 años, hemos optado por utilizar un tono divertido, casual, respetuoso y sereno para que estos puedan sentir que están en una aplicación juvenil, remarcando la energía y emoción al momento de leer sus historias favoritas.
+
+
 
 ### 4.1.2. Web Style Guidelines
 
@@ -572,11 +575,15 @@ Con respecto a los estándares visuales, se utilizarán los mismos elementos pre
 
 ### 4.1.3. Mobile Style Guidelines
 
+
 #### 4.1.3.1. iOS Mobile Style Guidelines
+
 
 #### 4.1.3.2. Android Mobile Style Guidelines
 
+
 ## 4.2. Information Architecture
+
 
 ### 4.2.1. Organization Systems
 
