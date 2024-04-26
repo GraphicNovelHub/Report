@@ -119,17 +119,22 @@ Nuestra vusión es ser reconocidos como líderes globales en la distribución de
 **What?**<br>
 La empresa se especializa en la distribución de una amplia gama de productos relacionados con el anime, incluyendo mangas, peluches, figuras coleccionables, ropa y más. Ofrece una plataforma web que facilita a tiendas y distribuidores la venta y compra de estos productos de manera segura, eficiente y rápida.
 
+
 **When?**<br>
 La operación de la empresa podría haber comenzado hace unos años, adaptándose y creciendo en respuesta a la creciente popularidad del anime y la cultura pop japonesa a nivel mundial. La plataforma web está disponible 24/7, ofreciendo actualizaciones constantes de inventario y nuevos lanzamientos.
+
 
 **Where?**<br>
 Los usuarios ya sean consumidores y distribuidores podrán utilizar nuestra aplicación en cualquier dispositivo que dispongan de acceso a internet, ya que contará con diseño responsivo. Por ende, está dirigida (principalmente) a los vendedores y compradores de productos de anime.
 
+
 **Who?**<br>
 La empresa atiende a un amplio espectro de clientes, desde tiendas especializadas en productos de anime y manga hasta grandes distribuidores y minoristas online que buscan ampliar su oferta de productos. También atrae a consumidores finales apasionados por el anime y la cultura pop japonesa.
 
+
 **Why?**<br>
 La empresa fue creada para solucionar varios desafíos en la industria del anime y manga, como la dificultad de acceso a un catálogo diverso y auténtico de productos fuera de Japón, la necesidad de una distribución más eficiente y segura, y la demanda de servicios personalizados para tiendas y distribuidores.
+
 
 **How?**<br>
 Mediante el desarrollo de una plataforma web intuitiva y segura, la empresa facilita el proceso de pedido, venta y distribución de productos de anime. La plataforma incluye funciones como gestión de inventario, procesamiento de pedidos en tiempo real, seguimiento de envíos, y soporte al cliente. La empresa asegura la autenticidad y calidad de los productos a través de asociaciones directas con proveedores y fabricantes en Japón.
