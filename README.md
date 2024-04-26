@@ -22,7 +22,7 @@
 | --------------------------------- | ---------- |
 | Cuya Villegas, Rafael Alberto     | u201913495 |
 | Laguerre Challco, Fabrizzio Hernán| u20211a950 |
-| Tasayco Vilcamiza, Damaris        | u202119605 |
+| Tasayco Vilcamiza, Damaris Jemima | u202119605 |
 | Ramos Najar, Tony Alexander       | u20211a153 |
 | Zarate Castro, Jose Daniel        | u202019128 |
 
@@ -34,10 +34,11 @@
 
 # Registro de versión del informe
 
-| Versión | Fecha      | Autor                  | Descripción de modificación                                 |
-| ------- | ---------- | ---------------------- | ----------------------------------------------------------- |
-| 1.0     | 01/04/2024 | Fabrizzio Laguerre     | Creación del reporte y se definió la estructura del informe |
-| 1.0     | 08/04/2024 | Damaris Tasayco        | Se apoyó en la estructura e información del informe         |
+| Versión | Fecha      | Autor                  | Descripción de modificación                                    |
+| ------- | ---------- | ---------------------- | -------------------------------------------------------------- |
+| 1.0     | 01/04/2024 | Fabrizzio Laguerre     |  Creación del reporte y se definió la estructura del informe   |
+| 1.0     | 08/04/2024 | Damaris Tasayco        |    Se apoyó en la estructura e información del informe         |
+| 2.0     | 26/04/2024 | Damaris Tasayco        | Se apoyó en la estructura e información de los capítulos 4 y 5 |
 
 ---
 
