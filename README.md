@@ -1204,9 +1204,26 @@ Finalmente, para Spring Boot Framework se empleará la documentación planteada 
 
 ### 5.1.4. Software Deployment Configuration
 
+Curihiub se despliega en tres entornos principales: desarrollo, pruebas y producción.
+
+- **Desarrollo:** Utilizado para el desarrollo y prueba de nuevas funcionalidades por parte del equipo de desarrollo de Curihiub.
+
+- **Pruebas:** Entorno para realizar pruebas exhaustivas de la aplicación antes de su lanzamiento, replicando el entorno de producción.
+
+- **Producción:** Entorno en el que la aplicación está disponible para los usuarios finales y se implementan medidas de seguridad y optimización de rendimiento.
+
+
 ## 5.2. Product Implementation & Deployment
 
 ### 5.2.1. Sprint Backlogs
+
+| ID | User Story         | Title                                  | Description                                           | Estimation (Hours) | Assigned To      | Status (To-do/In Process/To Review/Done) |
+|----|--------------------|----------------------------------------|-------------------------------------------------------|--------------------|------------------|-------------------------------------------|
+| 1  | Registro del usuario | Interfaz para registrarse            | Crear una interfaz para el registro e inicio de sesión de los usuarios | 3 hours            | Fabrizzio Laguerre | Done                                      |
+| 2  | Login del usuario    | Interfaz para ingresar sesión        | Crear una interfaz que se encargue de la exploración y búsqueda de productos | 3 hours            | Damaris Tasayco   | Done                                      |
+| 3  | Lista de productos   | Crear pantalla para ver la lista de productos de cada tienda | Crear filtros para obtener una lista personalizada de los productos por tienda | 6 hours            | José Zarate       | Done                                      |
+| 4  | Lista de tiendas     | Crear pantalla para ver la lista de tiendas disponibles | Crear una página dónde pueda visualizar las tiendas disponibles | 5 hours            | Tony Ramos        | Done                                      |
+
 
 ### 5.2.2. Implemented Landing Page Evidence
 
