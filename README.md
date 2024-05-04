@@ -1332,6 +1332,8 @@ Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Rea
 
 ### 6.1.4. Core System Tests.
 
+Link de la prueba en YouTube: [https://youtu.be/VF2ybYDMQ7s](https://youtu.be/VF2ybYDMQ7s)
+
 ![test1](images/6.1.4/TEST1.png)
 
 ![test2](images/6.1.4/TEST2.png)
@@ -1413,6 +1415,11 @@ En el pipeline de implementación continua, los componentes principales incluyen
 
 # Conclusiones
 
+- Innovación tecnológica como motor de desarrollo: La orientación de Curihub hacia soluciones tecnológicas avanzadas refleja un compromiso con la innovación en el desarrollo de software. Este enfoque tecnológico podría ser clave para diferenciar la aplicación en un mercado competitivo y en constante evolución.
+- Importancia de la colaboración y la integración de sistemas: La cultura de colaboración tanto interna como externa resalta la relevancia de las alianzas estratégicas y la integración de sistemas en el desarrollo de software. Establecer relaciones sólidas con tiendas y distribuidores, así como integrarse con sus sistemas, podría ser fundamental para el éxito de la aplicación.
+- Enfoque en la usabilidad y la experiencia del usuario: El énfasis en crear un ecosistema inclusivo y accesible subraya la importancia de diseñar una aplicación que sea fácil de usar y satisfaga las necesidades de los usuarios. Priorizar la usabilidad y la experiencia del usuario podría ser crucial para atraer y retener a una base de usuarios fiel.
+- Seguridad y eficiencia en el desarrollo y la implementación: La misión de garantizar una adquisición de productos eficiente, segura y confiable resalta la importancia de la seguridad y la eficiencia en el desarrollo y la implementación del software. Implementar prácticas sólidas de seguridad y optimizar la eficiencia del sistema desde el inicio del desarrollo podría ser esencial para construir la confianza de los usuarios y garantizar transacciones seguras y fluidas.
+- Consideraciones globales y adaptación a diferentes mercados: La visión de convertirse en líderes globales en la distribución de productos de anime destaca la importancia de considerar las diferencias culturales y las necesidades específicas de diferentes mercados en el desarrollo de software. Diseñar la aplicación con consideraciones globales en mente, desde la localización del contenido hasta la adaptación a diversas regulaciones y preferencias de los usuarios, podría ser fundamental para el éxito internacional de la plataforma.
 
 
 ---
