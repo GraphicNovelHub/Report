@@ -1227,6 +1227,8 @@ Curihiub se despliega en tres entornos principales: desarrollo, pruebas y produc
 
 ### 5.2.2. Implemented Landing Page Evidence
 
+![curihub](images/curihub.png)
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
