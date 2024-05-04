@@ -1306,6 +1306,87 @@ Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Rea
 
 ![collab2](images/collab2.png)
 
+# Capítulo VI: Product Implementation, Validation, & Deployment
+
+## 6.1. Testing Suites & Validation
+
+### 6.1.1. Core Entities Unit Tests
+
+### 6.1.2. Core Integration Tests.
+
+### 6.1.3. Core Behavior-Driven Development
+
+### 6.1.4. Core System Tests.
+
+# Capítulo VII: Product Implementation, Validation, & Deployment
+
+## 7.1. Continuous Integration
+
+### 7.1.1. Tools and Practices.
+
+### Integración Continua
+
+Para la integración continua, se utilizaron las siguientes herramientas y prácticas:
+
+- **Git:** Sistema de control de versiones utilizado para gestionar el código fuente y facilitar la colaboración entre desarrolladores.
+- **JUnit:** Framework de pruebas unitarias para Java utilizado para escribir y ejecutar pruebas que validan el funcionamiento correcto del código.
+- **Selenium:** Herramienta de automatización de pruebas utilizada para realizar pruebas de integración y pruebas automatizadas de la interfaz de usuario.
+- **Pruebas Automatizadas:** Ejecución automática de pruebas unitarias y de integración después de cada cambio en el código fuente para identificar y corregir errores de manera temprana.
+- **Notificaciones:** Configuración de notificaciones para informar a los desarrolladores sobre el estado de las compilaciones y las pruebas, facilitando la colaboración y la resolución rápida de problemas.
+
+### 7.1.2. Build & Test Suite Pipeline Components. 
+
+### Pipeline de Integración Continua
+
+En el pipeline de integración continua, los componentes principales incluyen:
+
+- **Compilación Automatizada:** Configuración de Selenium para iniciar automáticamente la compilación tan pronto como se realizan cambios en el repositorio Git.
+
+- **Pruebas Automatizadas:** Utilización de JUnit y Selenium para ejecutar automáticamente pruebas unitarias y de integración después de la compilación para garantizar el correcto funcionamiento del código.
+
+- **Análisis Estático de Código:** Configuración de un análisis estático del código como parte de la compilación para identificar posibles problemas en el código y mantener un alto nivel de calidad.
+
+## 7.2. Continuous Delivery  
+
+### 7.2.1. Tools and Practices.
+
+### Entrega Continua
+
+Para la entrega continua, se utilizaron las siguientes herramientas y prácticas:
+
+- **Git:** Utilizado como herramienta principal para controlar las versiones del código fuente y garantizar que todos los cambios estén correctamente registrados.
+
+- **Pruebas Automatizadas:** Implementación de pruebas automatizadas en un entorno de pruebas para validar la funcionalidad de la aplicación antes de su implementación en producción.
+
+### 7.2.2. Stages Deployment Pipeline Components.  
+
+### Pipeline de Entrega Continua
+
+En el pipeline de entrega continua, los componentes principales incluyen:
+
+- **Despliegue Automatizado:** Configuración de Selenium para desplegar automáticamente la aplicación en un entorno de pruebas una vez que ha pasado las pruebas de integración continua.
+
+- **Pruebas de Aceptación Automatizadas:** Implementación de pruebas automatizadas en el entorno de pruebas para validar la funcionalidad de la aplicación desde la perspectiva del usuario.
+
+- **Despliegue en Entorno de Producción:** Implementación automática en el entorno de producción una vez que la aplicación ha pasado todas las pruebas.
+
+## 7.3. Continuous deployment  
+
+### 7.3.1. Tools and Practices.  
+
+- **Git:** Utilizado como herramienta principal para gestionar el código fuente y mantener un historial completo de las versiones de la aplicación.
+
+### 7.3.2. Production Deployment Pipeline Components. 
+
+### Pipeline de Implementación Continua
+
+En el pipeline de implementación continua, los componentes principales incluyen:
+
+- **Automatización Completa:** Automatización completa del proceso de implementación en producción.
+
+- **Monitoreo Continuo:** Configuración de un sistema de monitoreo continuo para identificar problemas en la producción y realizar un rollback automático si es necesario.
+
+
 # Conclusiones
 
 
