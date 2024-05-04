@@ -1229,13 +1229,64 @@ Curihiub se despliega en tres entornos principales: desarrollo, pruebas y produc
 
 ![curihub](images/curihub.png)
 
+![curihub2](images/curihub2.png)
+
+![wearecurihub](images/wearecurihub.png)
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 
+![image1](images/image1a.png)
+
+![image2](images/image1b.png)
+
+![image3](images/image1c.png)
+
 ### 5.2.4. Implemented Native-Mobile Application Evidence
+
+### Evidencia de la Aplicación Móvil Nativa Curihiub
+
+En esta sección se presenta la evidencia de la aplicación móvil nativa desarrollada como parte del proyecto Curihiub. Se incluyen detalles sobre la aplicación móvil nativa implementada, así como pruebas, capturas de pantalla y otros materiales relevantes que demuestran su funcionamiento y características.
+
+#### Descripción de la Aplicación Móvil Nativa
+
+La aplicación móvil nativa de Curihiub es una plataforma diseñada para permitir a los usuarios acceder fácilmente a una amplia variedad de productos de anime y manga desde sus dispositivos móviles. Proporciona una experiencia intuitiva y personalizada para explorar, comprar y disfrutar del contenido de anime de forma conveniente.
+
 
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
 ### 5.2.6. RESTful API documentation
+
+### API de Curihiub
+
+La API de Curihiub ofrece una variedad de servicios para facilitar la compra, distribución y venta de productos de anime. Permite a los desarrolladores acceder a funciones como la búsqueda de productos, la gestión de carritos de compras, entre otros.
+
+#### Recursos de la API
+
+La API de Curihub proporciona acceso a los siguientes recursos principales:
+- Productos: Permite buscar y obtener información detallada sobre los productos de anime disponibles en la plataforma.
+- Carrito de compras: Permite a los usuarios gestionar los productos seleccionados para su compra.
+- Pedidos: Permite realizar y gestionar pedidos de productos de anime.
+
+#### Endpoints y métodos HTTP
+
+La API de Curihub ofrece varios endpoints que admiten los siguientes métodos HTTP:
+- `/tienda` (GET): Obtiene una lista de las tiendas registradas.
+- `/productos/{id}` (GET): Obtiene información detallada sobre un producto según su id en la tienda.
+- `/carrito` (GET, POST, PUT, DELETE): Gestiona el carrito de compras del usuario.
+- `/pedidos` (GET, POST): Gestiona los pedidos realizados por el usuario.
+
+#### Parámetros de solicitud
+
+Los endpoints de la API pueden recibir parámetros de solicitud, como parámetros de consulta para filtrar resultados o parámetros de cuerpo para enviar datos en las solicitudes POST y PUT.
+
+#### Respuestas de la API
+
+La API de Curihiub devuelve respuestas en formato JSON e incluye códigos de estado HTTP para indicar el resultado de la operación. Los desarrolladores pueden esperar recibir respuestas detalladas que contienen la información solicitada o mensajes de error en caso de problemas.
+
+#### Autenticación y autorización
+
+Para acceder a los servicios de la API de Curihiub, los desarrolladores deben autenticarse utilizando su usuario y contraseña de acceso válido. La autorización se basa en roles y permisos definidos para garantizar la seguridad de los datos y las operaciones.
+
 
 ### 5.2.7. Team Collaboration Insights
 
