@@ -1312,11 +1312,35 @@ Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Rea
 
 ### 6.1.1. Core Entities Unit Tests
 
+![coreentity1](images/6.1.1/coreentity1.png)
+
+![coreentity2](images/6.1.1/coreentity2.png)
+
+![coreentity3](images/6.1.1/coreentity3.png)
+
+![coreentity4](images/6.1.1/coreentity4.png)
+
 ### 6.1.2. Core Integration Tests.
+
+![coreintegration1](images/6.1.2/coreintegration1.png)
+
+![coreintegration2](images/6.1.2/coreintegration2.png)
 
 ### 6.1.3. Core Behavior-Driven Development
 
+![usermanagement](images/6.1.3/usermanagement.png)
+
 ### 6.1.4. Core System Tests.
+
+![test1](images/6.1.4/TEST1.png)
+
+![test2](images/6.1.4/TEST2.png)
+
+![test3](images/6.1.4/TEST3.png)
+
+![test4](images/6.1.4/TEST4.png)
+
+![test5](images/6.1.4/TEST5.png)
 
 # Capítulo VII: Product Implementation, Validation, & Deployment
 
