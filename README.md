@@ -1254,6 +1254,16 @@ La aplicación móvil nativa de Curihiub es una plataforma diseñada para permit
 
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
+![implemented1](images/implemented1.png)
+
+![implemented2](images/implemented2.png)
+
+![implemented3](images/implemented3.png)
+
+![implemented4](images/implemented4.png)
+
+![implemented5](images/implemented5.png)
+
 ### 5.2.6. RESTful API documentation
 
 ### API de Curihiub
@@ -1290,7 +1300,11 @@ Para acceder a los servicios de la API de Curihiub, los desarrolladores deben au
 
 ### 5.2.7. Team Collaboration Insights
 
----
+Durante este sprint, nuestro equipo trabajó de manera organizada en GitHub. Realizamos reuniones regulares y actualizaciones periódicas para asegurarnos de que todos contribuyeran de manera equitativa. Esta estructura organizativa y enfoque de colaboración eficiente fueron esenciales para nuestro éxito en este sprint.
+
+![collab1](images/collab1.png)
+
+![collab2](images/collab2.png)
 
 # Conclusiones
 
