@@ -1412,6 +1412,122 @@ En el pipeline de implementación continua, los componentes principales incluyen
 
 - **Monitoreo Continuo:** Configuración de un sistema de monitoreo continuo para identificar problemas en la producción y realizar un rollback automático si es necesario.
 
+## 7.4. Continuous monitoring
+
+### 7.4.1. Tools and Practices
+
+Para el monitoreo continuo, se utiliza la herramienta Lighthouse para evaluar el rendimiento, la accesibilidad, las mejores prácticas y el SEO de la aplicación en producción. 
+
+![lighthouse](images/lighthouse2.jpg)
+
+### 7.4.2. Monitoring Pipeline Components
+
+En el pipeline de monitoreo, los componentes principales incluyen: 
+
+- **Evaluaciones Periódicas:** Configuración de Lighthouse para realizar evaluaciones periódicas del rendimiento y otros aspectos críticos de la aplicación. 
+
+- **Análisis de Métricas:** Análisis de las métricas generadas por Lighthouse para identificar áreas de mejora y posibles problemas. 
+
+### 7.4.3. Alerting Pipeline Components
+
+En el pipeline de alertas, los componentes principales incluyen: 
+
+- **Configuración de Alertas:** Configuración de Lighthouse para generar alertas cuando los resultados de las evaluaciones periódicas caen por debajo de ciertos umbrales. 
+
+- **Notificación de Problemas:** Envío automático de notificaciones a los desarrolladores cuando se detectan problemas críticos en las evaluaciones de Lighthouse. 
+
+### 7.4.4. Notification Pipeline Components.
+
+En el pipeline de notificaciones, los componentes principales incluyen: 
+
+- **Integración de Notificaciones:** Configuración de sistemas de notificación (correo electrónico, Slack, etc.) para informar a los equipos de desarrollo sobre los resultados de las evaluaciones de Lighthouse. 
+
+- **Informes Periódicos:** Generación de informes periódicos basados en las evaluaciones de Lighthouse y su envío a los equipos correspondientes para revisar el rendimiento y las áreas de mejora. 
+
+# Capítulo VIII: Experiment-Driven Development
+
+## 8.1. Experiment Planning  
+
+### 8.1.1. As-Is Summary.  
+
+**Buscar productos:**
+
+Nuestros consumidores de contenido usan nuestra plataforma para buscar la mercancía o productos de anime de sus tiendas preferidas. 
+
+**Postear productos:**
+
+Nuestros distribuidores de contenido son los dueños de las tiendas que usan nuestra plataforma para publicar y compartir sus productos, donde publican sus productos para que los consumidores los conozcan y compren. 
+
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims.  
+
+**Assumptions:**
+
+Los usuarios confiarán en los productos de las tiendas si estas cuentan con reseñas y calificaciones positivas de usuarios registrados. 
+
+**Knowledge Gaps** 
+
+Impacto esperado de CuriHub en la eficiencia y rentabilidad del proceso de compra de productos en nuestros distribuidores online. 
+
+**Ideas:** 
+
+Implementar un sistema de reseñas y valoración de productos para los usuarios, de esta forma podrán  
+
+**Claims:**
+
+Mostrar el perfil de la tienda aumentará la confianza de los compradores, lo que resultará en un mayor número de compras en las tiendas. 
+
+### 8.1.3. Experiment-Ready Questions.  
+
+| **Question**                                                                                                              | **Confidence** | **Risk** | **Impact** | **Interest** | **Total Score** |
+|---------------------------------------------------------------------------------------------------------------------------|----------------|----------|------------|--------------|-----------------|
+| ¿Tendrá un efecto positivo en las compras de los usuarios si agregamos una sección de reseñas y valoración?                | 7              | 4        | 6          | 8            | 25              |
+| ¿Mejorara la experiencia del usuario si agregamos un calendario de lanzamiento de los productos?                          | 7              | 4        | 7          | 8            | 26              |
+| ¿Incrementará la interacción del usuario y la lealtad si añadimos elementos de gamificación, como puntos y recompensas por compras y actividades en el sitio? | 5              | 3        | 6          | 7            | 21              |
+| ¿Aumentará la tasa de compra si añadimos videos de demostración y unboxing de los productos en sus respectivas páginas?    | 8              | 4        | 5          | 9            | 26              |
+| ¿Se incrementarán las suscripciones si ofrecemos contenido exclusivo a los usuarios registrados?                          | 7              | 7        | 5          | 6            | 25              |
+| ¿Incrementará el tráfico del sitio web si optimizamos los contenidos para motores de búsqueda (SEO)?                      | 9              | 6        | 5          | 5            | 26              |
+| ¿Mejorará la retención de clientes si ofrecemos descuentos exclusivos y promociones especiales a través de un programa de membresía? | 7      | 5        | 7          | 6            | 25              |
+| ¿Aumentará la confianza del usuario si proporcionamos información detallada sobre la seguridad de sus datos y los métodos de pago de cada tienda asociada? | 6        | 6        | 7          | 7            | 26              |
+| ¿Qué efecto tiene la implementación de un sistema de recomendaciones personalizadas en Curihub sobre el tiempo promedio de navegación de los usuarios en el sitio web? | 6  | 4        | 6          | 7            | 23              |
+| ¿Incluir comentarios destacados de usuarios satisfechos en el sitio web de Curihub, con respecto a un producto tendrá un efecto positivo en el número de visitas a la página? | 5    | 5        | 7          | 7            | 24              |
+
+
+### 8.1.4. Question Backlog.  
+
+### 8.1.5. Experiment Cards.  
+
+## 8.2. Experiment Design  
+
+### 8.2.1. Hypotheses.  
+
+### 8.2.2. Measures: 
+
+### 8.2.3. Conditions.  
+
+### 8.2.4. Scale Calculations and Decisions.  
+
+### 8.2.5. Methods Selection.  
+
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.  
+
+### 8.2.7. Web and Mobile Tracking Plan. 
+
+Para el plan de monitoreo web y Mobile se hará uso de herramientas como Google Analitycs esta recoge datos de los usuarios cuando visitan tu sitio web mediante un fragmento de código de seguimiento que se instala en todas las páginas de tu sitio. Este código recoge información sobre cómo interactúan los usuarios con las páginas, qué páginas visitan, cuánto tiempo pasan en ellas, y cómo navegan a través de tu sitio, entre otros detalles. Para efectos de este proyecto se harán seguimientos en métricas de visitas y visitantes, porcentaje de rebote, tiempo en página, páginas vistas. 
+
+#### Métricas para SEO
+
+- **Visitas Orgánicas:** El número de usuarios que llegan a tu sitio a través de motores de búsqueda sin pagar por publicidad. Es crucial para evaluar la efectividad de tus esfuerzos SEO. 
+
+- **Tasa de Rebote:** El porcentaje de visitas en las que el usuario abandona tu sitio desde la página de entrada sin interactuar con la página. Una tasa de rebote alta puede indicar contenido no relevante o problemas de usabilidad que afectan negativamente el SEO. 
+
+#### Métricas para Retención de Usuarios 
+
+- **Usuarios Nuevos vs. Usuarios Recurrentes:** Esta métrica te permite ver cuántos de tus visitantes son nuevos y cuántos son visitantes que regresan, ayudándote a entender cuán bien estás reteniendo a tus usuarios. 
+
+- **Frecuencia y Recencia de Visitas:** Mide cuán a menudo y cuán recientemente los usuarios regresaron a tu sitio. Estas métricas son útiles para evaluar la lealtad y la retención.
+
+![googleanalitycs](images/googleanalitycs.png)
+
 
 # Conclusiones
 
