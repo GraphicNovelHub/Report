@@ -1829,7 +1829,29 @@ Mostrar el perfil de la tienda aumentará la confianza de los compradores, lo qu
 
 ### 8.2.5. Methods Selection.  
 
+| **Herramienta**          | **Google Analytics**                                                                                                              | **Statcounter**                                                                                                                       | **Lighthouse**                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Precio**               | Gratuito para la versión básica, que es suficientemente robusta para la mayoría de los negocios.                                  | Gratuito con limitaciones en la duración del historial de datos y la cantidad de vistas de página.                                     | Gratuito, es una herramienta de código abierto desarrollada por Google.                                              |
+| **Capacidad de Análisis**| Extremadamente poderoso proporciona una visión integral de las interacciones de los usuarios en tu sitio web, incluyendo adquisición de usuarios, comportamiento y conversiones. Permite segmentación avanzada, seguimiento de eventos y mucho más. | Moderadamente potente ofrece análisis en tiempo real, rastreador de visitantes, mapas de calor y más. Adecuado para sitios web más pequeños o blogs. | Enfocada en la calidad de las páginas web en rendimiento, accesibilidad, prácticas recomendadas y SEO.               |
+| **Sencillez**            | Interfaz intuitiva, aunque puede ser abrumadora para principiantes debido a la profundidad de las opciones disponibles. La curva de aprendizaje puede ser empinada para aprovechar al máximo sus capacidades. | Fácil de usar; ideal para principiantes y pequeños empresarios que necesitan funcionalidades de seguimiento básico sin la complejidad de sistemas más avanzados. | Fácil de usar; se ejecuta como una extensión del navegador o desde la línea de comandos. Proporciona informes detallados con métricas claras y sugerencias de optimización. |
+| **Ventajas**             | Informes en tiempo real y seguimiento de conversiones.                                                                             | Herramienta ligera y de carga rápida que no afecta significativamente el tiempo de carga de la página.                                 | Proporciona una auditoría automatizada de la calidad de las páginas web, lo que es esencial para desarrolladores y administradores de sitios enfocados en el rendimiento técnico. |
+| **Documentación disponible** | Ampliamente documentado con guías de usuario, tutoriales y cursos disponibles en la Google Analytics Academy.                        | Buena documentación disponible en el sitio web de Statcounter con un enfoque práctico y orientado a soluciones rápidas.               | Excelentemente documentada cuenta con amplios recursos en línea para aprender a utilizar la herramienta y comprender sus métricas. |
+
+
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection.  
+
+**Google Lighthouse**
+
+![googleanalitycs](images/googlelighthouse1.png)
+
+![googleanalitycs](images/googlelighthouse2.png)
+
+![googleanalitycs](images/googlelighthouse3.png)
+
+![googleanalitycs](images/googlelighthouse4.png)
+
+![googleanalitycs](images/googlelighthouse5.png)
+
 
 ### 8.2.7. Web and Mobile Tracking Plan. 
 
