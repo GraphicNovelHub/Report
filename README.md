@@ -1726,7 +1726,106 @@ Mostrar el perfil de la tienda aumentará la confianza de los compradores, lo qu
 
 ### 8.2.3. Conditions.  
 
+| **Pregunta**                                                                                                              | ¿Cómo afectará la implementación de un calendario de lanzamiento de productos en nuestros usuarios?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | La implementación del calendario de lanzamiento incrementara el tiempo que el usuario pasa en nuestra aplicación en un 10%.                                                                                  |
+| **Condición de control**                                                                                                  | Tras agregar el calendario de lanzamiento de productos, el tiempo que el usuario pasa en nuestra aplicación no sufre un cambio significativo.                                                                  |
+
+
+
+| **Pregunta**                                                                                                              | ¿Incrementará la interacción del usuario y la lealtad si añadimos elementos de gamificación, como puntos y recompensas por compras y actividades en el sitio?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | La implementación de videos de demostración y unboxing en las páginas de productos incrementará la tasa de compra en un 15%.                                                                                 |
+| **Condición de control**                                                                                                  | Tras agregar el calendario de lanzamiento de productos, el tiempo que el usuario pasa en nuestra aplicación no sufre un cambio significativo.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Incrementará la interacción del usuario y la lealtad si añadimos elementos de gamificación, como puntos y recompensas por compras y actividades en el sitio?                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | La implementación de elementos de gamificación, como puntos y recompensas, incrementará la interacción del usuario en un 20% y la tasa de lealtad en un 10%.                                                                                   |
+| **Condición de control**                                                                                                  | Tras agregar elementos de gamificación, como puntos y recompensas, la interacción del usuario y la tasa de lealtad no sufren un cambio significativo.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Se incrementarán las suscripciones si ofrecemos contenido exclusivo a los usuarios registrados?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | La implementación de contenido exclusivo para usuarios registrados incrementará el número de registros en un 25%.                                                                                   |
+| **Condición de control**                                                                                                  | La implementación de contenido exclusivo para usuarios registrados no incrementará el número de registros de manera significativa.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Incrementará el tráfico del sitio web si optimizamos los contenidos para motores de búsqueda (SEO)?                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | La optimización de contenido para SEO incrementará el tráfico del sitio web en un 40%.                                                                                  |
+| **Condición de control**                                                                                                  | La optimización de contenido para SEO no incrementará el tráfico del sitio web de manera significativa.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Mejorará la retención de clientes si ofrecemos descuentos exclusivos y promociones especiales a través de un programa de membresía?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | Los clientes que se inscriban y participen en el programa de membresía aumentarán en un 20%, espacio dónde tienen acceso a descuentos exclusivos y promociones especiales.                                                                                   |
+| **Condición de control**                                                                                                  | Los clientes que no se inscriben en el programa de membresía y no tienen acceso a los descuentos exclusivos y promociones especiales.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Aumentará la confianza del usuario si proporcionamos información detallada sobre la seguridad de sus datos y los métodos de pago de cada tienda asociada?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | Los usuarios que reciben información detallada sobre la seguridad de sus datos y los métodos de pago de cada tienda asociada aumentarán en un 25%.                                                                                   |
+| **Condición de control**                                                                                                  | Los usuarios que no reciben información detallada sobre la seguridad de sus datos y los métodos de pago de cada tienda asociada.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Cómo afectará la implementación de un sistema de recomendaciones personalizadas en Curihub sobre el tiempo promedio de navegación de los usuarios en el sitio web?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | Los usuarios que ingresen al sitio web y sean expuestos al sistema de recomendaciones personalizadas, el número de interacciones aumentarán en un 25%.                                                                                   |
+| **Condición de control**                                                                                                  | Los usuarios que ingresen al sitio web pero no sean expuestos al sistema de recomendaciones personalizadas.                                                                   |
+
+
+
+| **Pregunta**                                                                                                              | ¿Cómo sabremos si la implementación de comentarios destacados de usuarios satisfechos en la página de productos de Curihub aumentará el número de visitas a la página web?                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Condición experimental**                                                                                                | Incluir comentarios destacados de usuarios satisfechos en la página de productos de Curihub y las visitas  aumentarán en un 25%.                                                                                  |
+| **Condición de control**                                                                                                  | No mostrar comentarios destacados en la página de productos y medir las visitas durante el mismo período de tiempo anterior.                                                                   |
+
+
+
 ### 8.2.4. Scale Calculations and Decisions.  
+
+
+| **Scale calculation** | **Decision** | **Factor**                                                                                                                                                  | **Desfavorable** | **Aceptable** | **Ideal** | **Excelente** |
+|-----------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------|-----------|---------------|
+|    **Creemos que, al implementar una sección de reseñas y valoraciones, el número de usuarios aumentará en un 20% en 2 meses.**                      |   Implementar una sección de reseñas y valoraciones, donde se visualizará el puntaje del producto y sus comentarios.           |                              |                 |               |    x       |               |
+|                       |              |                                           |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|    **Creemos que al implementar un calendario de lanzamiento de productos generará un aumento de al menos 10% de usuarios.**                     |      Implementar el calendario de lanzamiento de productos, donde se podrán visualizar las llegadas de los diversos productos a nuestra plataforma.         |                                     |                 |   x            |           |               |
+|                       |              |             |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|        **Creemos que, al añadir videos de demostración y unboxing en las páginas de productos, la tasa de compra aumentará en un 15%.**               |     Implementar videos de demostración y unboxing en las páginas de productos, donde los usuarios podrán ver los productos en acción y obtener una mejor comprensión de sus características y beneficios.         |                               |                |               |    x       |               |
+|                       |              |  |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|     **Creemos que, al añadir elementos de gamificación, como puntos y recompensas, la interacción del usuario aumentará en un 20%.**                     |    Implementar un sistema de gamificación, donde los usuarios puedan ganar puntos y recompensas por diversas actividades, como realizar compras, dejar reseñas y participar en eventos en la plataforma.          |                             |                |     x          |           |               |
+|                       |              |  |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|    **Creemos que al implementar contenido exclusivo para usuarios registrados se incrementará el número de registros en un 25%.**                     |    Implementar contenido únicamente visible para usuarios que ya estén registrados en la aplicación.           |                                   |                 |               |   x        |               |
+|                       |              |                                                            |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|   **Creemos que, al implementar optimizaciones SEO, el tráfico del sitio web aumentará más del 20%.**                      |   Implementando mejoras SEO en nuestro sitio web, esperamos un incremento en el tráfico web.            |                                                         |                 |               |    x       |               |
+|                       |              |                                                                   |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|     **Creemos que ofrecer descuentos exclusivos y promociones especiales a través de un programa de membresía aumentará en un 20%, la lealtad de los clientes.**                  |  Implementar un programa de membresía con descuentos exclusivos y promociones especiales.               |  |                 |   x            |           |               |
+|                       |              |                                                                   |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|    **Creemos que proporcionar información detallada sobre la seguridad de los datos y los métodos de pago aumentará en un 25% la confianza del usuario.**                    |     Implementar una página de seguridad dedicada en el sitio web que explique detalladamente las medidas de seguridad implementadas, como la encriptación SSL y las prácticas de protección de datos.         |        |                |   x            |           |               |
+|                       |              |  |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|     **Creemos que al implementar un sistema de recomendaciones personalizadas, el tiempo de navegación de los usuarios aumentará.**                    |   Implementar la funcionalidad de un sistema de recomendaciones basadas en los gustos de cada usuario.            |                          |                 |               |     x      |               |
+|                       |              |                                                           |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+|    **Creemos que al implementar sistema de comentarios destacados en los productos, mejorará significativamente el número de visitas hacia nuestro sitio web.**                   |     Realizar pruebas en todos los productos, implementando una opción de “votación” en los comentarios.         |     |                 |       x        |           |               |
+|                       |              |                                                            |                  |               |           |               |
+|                       |              |                                                                                                                                                             |                  |               |           |               |
+
+
 
 ### 8.2.5. Methods Selection.  
 
